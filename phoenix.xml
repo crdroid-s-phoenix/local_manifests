@@ -25,6 +25,8 @@
              <linkfile src="target" dest="build/target" />
              <linkfile src="tools" dest="build/tools" />
          </project>
+  <remove-project path="external/zlib" name="crdroidandroid/android_external_zlib" />
+         <project path="external/zlib" name="crdroid-s-phoenix/android_external_zlib" remote="github" revision="12.1" />
   <remove-project path="frameworks/av" name="crdroidandroid/android_frameworks_av" />
          <project path="frameworks/av" name="crdroid-s-phoenix/android_frameworks_av" remote="github" revision="12.1" />
   <remove-project path="frameworks/base" name="crdroidandroid/android_frameworks_base" />
