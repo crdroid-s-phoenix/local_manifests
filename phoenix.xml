@@ -41,6 +41,8 @@
          <project path="packages/modules/Permission" name="crdroid-s-phoenix/android_packages_modules_Permission" remote="github" revision="12.1" />
   <remove-project path="packages/modules/Wifi" name="crdroidandroid/android_packages_modules_Wifi" />
          <project path="packages/modules/Wifi" name="crdroid-s-phoenix/android_packages_modules_Wifi" remote="github" revision="12.1" />
+  <remove-project path="packages/services/Telecomm" name="crdroidandroid/android_packages_services_Telecomm" />
+         <project path="packages/services/Telecomm" name="crdroid-s-phoenix/android_packages_services_Telecomm" remote="github" revision="12.1" />
   <remove-project path="system/bt" name="crdroidandroid/android_system_bt" />
          <project path="system/bt" name="crdroid-s-phoenix/android_system_bt" remote="github" revision="12.1" />
   <remove-project path="vendor/qcom/opensource/commonsys/system/bt" name="crdroidandroid/android_vendor_qcom_opensource_system_bt" />
