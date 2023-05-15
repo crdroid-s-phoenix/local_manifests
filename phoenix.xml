@@ -11,6 +11,8 @@
          <project path="vendor/addons" name="crdroid-s-phoenix/android_vendor_addons" remote="github" revision="12.1" />
   <remove-project path="packages/apps/crDroidSettings" name="crdroidandroid/android_packages_apps_crDroidSettings" />
          <project path="packages/apps/crDroidSettings" name="crdroid-s-phoenix/android_packages_apps_crDroidSettings" remote="github" revision="12.1" />
+  <remove-project path="lineage-sdk" name="crdroidandroid/android_lineage-sdk" />
+         <project path="lineage-sdk" name="crdroid-s-phoenix/android_lineage-sdk" remote="github" revision="12.1" />
 
   <!-- ASB -->
   <remove-project path="android" name="crdroidandroid/android" />
